@@ -1,9 +1,4 @@
-.mySwiper {
-    position: relative;
-}
 .swiper-next {
-    position: absolute;
-    left: 1490px;
     width: 60px;
     height: 50px;
     z-index: 1000000;
@@ -12,9 +7,6 @@
   }
   
   .swiper-prev {
-      position: absolute;
-      left: 1550px;
-      
       width: 60px;
       height: 50px;
       z-index: 100000;
